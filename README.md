@@ -2,7 +2,7 @@
 
 > Status: Concluído
 
-Esse repositório foi desenvolvido exclusivamente durante o semestre da matéria de Desenvolvimento de Sistemas 2, com objetivo em aprender e aplicar regras de negócio, levantamento e especificação de requisitos, diagramas, arquitetura e padrões GRASP.
+Esse repositório foi desenvolvido exclusivamente durante o semestre da matéria de Desenvolvimento de Sistemas II do curso de Sistemas de Informação (3º período), com objetivo em aprender e aplicar regras de negócio, levantamento e especificação de requisitos, diagramas, arquitetura e padrões GRASP.
 
 ## Projeto
 O projeto foi desenvolvido focando no planejamento de uma plataforma de distribuição de livros alugados/comprados, com o intuito de facilitar a entrega de livros ao usuário. O objetivo é facilitar o acesso aos livros físicos, de forma a possibilitar que o usuário encontre livros usados que o interesse e também possa se desfazer dos seus, ajudando que outros possam adquiri-los.
