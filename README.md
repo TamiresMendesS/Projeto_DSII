@@ -17,4 +17,4 @@ Além disso, o projeto busca promover a leitura e facilitar o acesso à livros f
 1. Clique na aba "Wiki" na parte superior da página.
 2. Acesse os tópicos por meio do índice no canto direito da tela.
 
-Última atualização da documentação: Setembro, 2024.
+> Última atualização da documentação: Setembro, 2024.
